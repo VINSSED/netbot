@@ -1,5 +1,5 @@
 ATTACK_TARGET_HOST = "https://smpmuad.sch.id" # IP address of the machine to be attacked.
-ATTACK_TARGET_PORT = "3000" # Port Number of the machine to be attacked.
+ATTACK_TARGET_PORT = "80" # Port Number of the machine to be attacked.
 
 #################################################################################
 
